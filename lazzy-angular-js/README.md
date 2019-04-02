@@ -1,5 +1,18 @@
 # LazzyAngularJs
 
+#first clone the repo 
+#second do npm install
+#third install angular-cli using command -: npm install -g @angular/cli
+# forth 'ng server' to start the server 
+
+#Check this it will help while setup
+'https://medium.freecodecamp.org/learn-how-to-create-your-first-angular-app-in-20-min-146201d9b5a7'
+
+
+# To create the component
+ng g c <component name>
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.1.
 
 ## Development server
@@ -25,3 +38,5 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
